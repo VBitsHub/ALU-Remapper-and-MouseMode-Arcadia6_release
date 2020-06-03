@@ -1,4 +1,4 @@
-# ALU-Remapper-and-MouseMode-Arcadia6
+# ALU-Remapper-and-MouseMode-Arcadia6 also works with Gems 2
 This file was created to be used with the AtGames Legends Ultimate in USB OTG mode with CoinOPS Arcadia 6 / RetroFE. Currently supported emulator is MaMe.
 
 MaMe keys: Rewind + P1 = Exit Game, Rewind + Menu = MaMe Configuration menu.
